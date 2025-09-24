@@ -11,10 +11,10 @@
           "architecture": "stm32f103c8t6",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/OnekyBot/OnekyBot-ZERO/blob/main/releases/onekybot_zero.zip",
+          "url": "https://github.com/OnekyBot/OnekyBot-ZERO/blob/main/releases/download/V1.0.0/onekybot_zero.zip",
           "archiveFileName": "onekybot_zero.zip",
-          "checksum": "SHA-256: sha256sum onekybot_zero.zip",
-          "size": "7710000"
+          "checksum": "SHA-256:0A9AE00CBEA56EA65190594DF67A7A6C5CBAFE0103F67155BC507E4E87388870",
+          "size": "7,894,940"
         }
       ],
       "tools": []
