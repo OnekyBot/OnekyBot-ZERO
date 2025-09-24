@@ -17,6 +17,7 @@
           "size": "7710000",
           "boards": [
             { "name": "OnekyBot ZERO" }
+          ]
         }
       ],
     }
