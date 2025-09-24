@@ -14,7 +14,7 @@
           "url": "https://github.com/OnekyBot/OnekyBot-ZERO/raw/main/releases/onekybot_zero.zip",
           "archiveFileName": "onekybot_zero.zip",
           "checksum": "SHA-256:449AFAF049FC507C64129ED18FBCF11D7D7CB1556517C77C32C162932894055B",
-          "size": "7868552",
+          "size": "7685000",
           "boards": [
             { "name": "OnekyBot ZERO" }
           ]
