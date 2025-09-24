@@ -1,0 +1,23 @@
+{
+  "packages": [
+    {
+      "name": "OnekyBot_ZERO",
+      "maintainer": "OnekyBot Team",
+      "websiteURL": "https://github.com/OnekyBot/OnekyBot-ZERO",
+      "email": "computerzz423@gmail.com",
+      "platforms": [
+        {
+          "name": "OnekyBot ZERO",
+          "architecture": "stm32f103c8t6",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/OnekyBot/OnekyBot-ZERO/blob/main/releases/onekybot_zero.zip",
+          "archiveFileName": "onekybot_zero.zip",
+          "checksum": "SHA-256: sha256sum onekybot_zero.zip",
+          "size": "7710000"
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
