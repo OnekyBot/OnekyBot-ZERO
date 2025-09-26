@@ -13,8 +13,8 @@
           "category": "Contributed",
           "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/raw/main/releases/onekybot_zero.zip",
           "archiveFileName": "onekybot_zero.zip",
-          "checksum": "SHA-256:867D2C83EA59DE654AB2AEBC6645E82EBE1A02A0ABBC28B30E9332F0B208A53B",
-          "size": "29963000",
+          "checksum": "SHA-256:912A6029E4B459CEEF6275C98A6C17B41713034E25221F5B016C57F7C2B58FED",
+          "size": "30019000",
           "boards": [
             { "name": "OnekyBot ZERO" }
           ]
