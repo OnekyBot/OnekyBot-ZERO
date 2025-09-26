@@ -20,23 +20,28 @@
           ]
         }
       ],
-       "toolsDependencies": [
-            {
-              "packager": "INEX_STM32",
-              "name": "xpack-arm-none-eabi-gcc",
-              "version": "10.3.1-2.3"
-            },
-            {
-              "packager": "INEX_STM32",
-              "name": "STM32Tools",
-              "version": "2.1.1"
-            },
-            {
-              "packager": "INEX_STM32",
-              "name": "CMSIS",
-              "version": "5.7.0"
-            }
-          ]
+       "tools": [
+  {
+    "name": "arm-none-eabi-gcc",
+    "version": "1.0.0",
+    "systems": [
+      {
+        "host": "i686-mingw32",
+        "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/blob/main/tools/win.zip",
+        "archiveFileName": "win.zip",
+        "checksum": "SHA-256:280D19F7E5B6CCDF1596FC5CA3E9470C310A8D8D6D858AD943FBD497B4460795",
+        "size": "10247000"
+      },
+      {
+        "host": "x86_64-apple-darwin",
+        "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/blob/main/tools/macosx.zip",
+        "archiveFileName": "macosx.zip",
+        "checksum": "SHA-256:A12FEF852F450DB7C52A14EC31BC378AF90954A5D54C0E457BCC2E03437C33F3",
+        "size": "894000"
+      }
+    ]
+  }
+]
     }
   ]
 }
