@@ -63,14 +63,14 @@
               "host": "i686-mingw32",
               "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/raw/refs/heads/main/tools/win.zip",
               "archiveFileName": "win.zip",
-              "checksum": "SHA-256:280D19F7E5B6CCDF1596FC5CA3E9470C310A8D8D6D858AD943FBD497B4460795",
-              "size": "10247000"
+              "checksum": "SHA-256:03E7570B2B41880067189946F76C44C1EFB64DD861D37F3425F23373514A0F4B",
+              "size": "10251000"
             },
             {
               "host": "x86_64-apple-darwin",
               "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/raw/refs/heads/main/tools/macosx.tar.gz",
               "archiveFileName": "macosx.tar.gz",
-              "checksum": "SHA-256:8849C2D3D3062437388EBAD71301B06FCF862E116A53EC2BF9A1226B4235C38B",
+              "checksum": "SHA-256:06E66265BA0C43A143FFE7F9C790AB2F9C48F58BDE6B81F67116258B23CBF32D",
               "size": "811000"
             }
           ]
