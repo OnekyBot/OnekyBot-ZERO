@@ -61,17 +61,17 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.3.1/STM32Tools-2.3.1-windows.tar.bz2",
-              "archiveFileName": "STM32Tools-2.3.1-windows.tar.bz2",
-              "checksum": "SHA-256:c3366000f3bca4fb91ba9f63c796e0e41f98b7cc375db9c087c88be499c022b5",
-              "size": "2310000"
+              "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/blob/main/tools/win.zip",
+              "archiveFileName": "win.zip",
+              "checksum": "SHA-256:280D19F7E5B6CCDF1596FC5CA3E9470C310A8D8D6D858AD943FBD497B4460795",
+              "size": "10247000"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.3.1/STM32Tools-2.3.1-mac.tar.bz2",
-              "archiveFileName": "STM32Tools-2.3.1-mac.tar.bz2",
-              "checksum": "SHA-256:333e9dbbffc74561f502b043feb078dffa89827b8c8a1b16d9e5edcf4256a722",
-              "size": "202000"
+              "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/blob/main/tools/macosx.tar.gz",
+              "archiveFileName": "macosx.tar.gz",
+              "checksum": "SHA-256:8849C2D3D3062437388EBAD71301B06FCF862E116A53EC2BF9A1226B4235C38B",
+              "size": "811000"
             }
           ]
         }
