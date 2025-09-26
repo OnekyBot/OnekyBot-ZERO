@@ -23,7 +23,7 @@
           "toolsDependencies": [
             {
               "packager": "OnekyBotZero",
-              "name": "xpack-arm-none-eabi-gcc",
+              "name": "arm-none-eabi-gcc",
               "version": "14.2.1-1.1"
             },
             {
@@ -36,7 +36,7 @@
       ],
       "tools": [
         {
-          "name": "xpack-arm-none-eabi-gcc",
+          "name": "arm-none-eabi-gcc",
           "version": "14.2.1-1.1",
           "systems": [
             {
