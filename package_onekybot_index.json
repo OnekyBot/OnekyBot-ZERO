@@ -13,8 +13,8 @@
           "category": "Contributed",
           "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/raw/main/releases/onekybot_zero.zip",
           "archiveFileName": "onekybot_zero.zip",
-          "checksum": "SHA-256:1A598ACAD439B3EB1F66085E9A93D215827686B51F754F579851887EDCFB907E",
-          "size": "51535000",
+          "checksum": "SHA-256:2DDC0958C24C8FA36D29E21F39D6F5A1A2C7B21A7868B225CF87865A424E4DD4",
+          "size": "51574000",
           "boards": [
             { "name": "OnekyBot ZERO" }
           ]
@@ -29,15 +29,15 @@
         "host": "i686-mingw32",
         "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/raw/main/releases/onekybot_zero.zip",
         "archiveFileName": "onekybot_zero.zip",
-        "checksum": "SHA-256:1A598ACAD439B3EB1F66085E9A93D215827686B51F754F579851887EDCFB907E",
-        "size": "51535000"
+        "checksum": "SHA-256:2DDC0958C24C8FA36D29E21F39D6F5A1A2C7B21A7868B225CF87865A424E4DD4",
+        "size": "51574000"
       },
       {
         "host": "x86_64-apple-darwin",
         "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/raw/main/releases/onekybot_zero.zip",
         "archiveFileName": "onekybot_zero.zip",
-        "checksum": "SHA-256:1A598ACAD439B3EB1F66085E9A93D215827686B51F754F579851887EDCFB907E",
-        "size": "51535000"
+        "checksum": "SHA-256:2DDC0958C24C8FA36D29E21F39D6F5A1A2C7B21A7868B225CF87865A424E4DD4",
+        "size": "51574000"
       }
     ]
   }
