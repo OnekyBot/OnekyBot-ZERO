@@ -11,10 +11,10 @@
           "architecture": "stm32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/OnekyBot/OnekyBot-ZERO/raw/main/releases/onekybot_zero.zip",
+          "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/raw/main/releases/onekybot_zero.zip",
           "archiveFileName": "onekybot_zero.zip",
-          "checksum": "SHA-256:2fb9d6b1d873dd990941e8d9f62d1fb60b373bf00d4a13ad557159a1f982827f",
-          "size": "8677000",
+          "checksum": "SHA-256:37FFA9B2EB804E1F0EEBC7E9CD43AA8951803687AC62518D2E0F473A208B19F1",
+          "size": "40512000",
           "boards": [
             { "name": "OnekyBot ZERO" }
           ]
