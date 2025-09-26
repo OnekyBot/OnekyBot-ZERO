@@ -8,8 +8,7 @@
       "platforms": [
         {
           "name": "OnekyBot ZERO",
-          "architecture": "stm32",
-          "version": "1.0.0",
+          "architecture": "OnekyBot",
           "category": "Contributed",
           "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/raw/main/releases/onekybot_zero.zip",
           "archiveFileName": "onekybot_zero.zip",
