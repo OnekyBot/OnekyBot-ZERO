@@ -9,6 +9,7 @@
         {
           "name": "OnekyBot ZERO",
           "architecture": "OnekyBot",
+          "version": "1.0.0",
           "category": "Contributed",
           "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/raw/main/releases/onekybot_zero.zip",
           "archiveFileName": "onekybot_zero.zip",
