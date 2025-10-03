@@ -32,6 +32,38 @@
               "version": "2.3.1"
             }
           ]
+        },
+        {
+          "name": "OnekyBot ZERO",
+          "architecture": "OnekyBot",
+          "version": "2.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package-V2/raw/main/releases/onekybot_zero-2.0.0.zip",
+          "archiveFileName": "onekybot_zero-2.0.0.zip",
+          "checksum": "SHA-256:B0EDDEE1F05557A32D1006983C2DA100CD2FDDD4ACA7021A0674F9500F3D5AAB",
+          "size": "7744000",
+          "boards": [
+            {
+              "name": "OnekyBot ZERO"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "OnekyBotZero",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "14.2.1-1.1"
+            },
+            {
+              "packager": "OnekyBotZero",
+              "name": "STM32Tools",
+              "version": "2.3.1"
+            },
+            {
+              "packager": "OnekyBotZero",
+              "name": "DFU-Util",
+              "version": "0.6.0"
+            }
+          ]
         }
       ],
       "tools": [
@@ -72,6 +104,26 @@
               "archiveFileName": "macosx.tar.gz",
               "checksum": "SHA-256:06E66265BA0C43A143FFE7F9C790AB2F9C48F58BDE6B81F67116258B23CBF32D",
               "size": "811000"
+            }
+          ]
+        },
+        {
+          "name": "DFU-Util",
+          "version": "0.6.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package-V2/raw/refs/heads/main/tools/dfu-util-0.6-win.zip",
+              "archiveFileName": "dfu-util-0.6-win.zip",
+              "checksum": "SHA-256:7F40DF21099CDDE2A22DC2ADCDA3BC4646C75491BB8D89ACB559DB7CD36627F2",
+              "size": "187000"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package-V2/raw/refs/heads/main/tools/dfu-util-0.6-macos.tar.gz",
+              "archiveFileName": "dfu-util-0.6-macos.tar.gz",
+              "checksum": "SHA-256:9F454B2CA9F80F231C078393484C8181F94995ED61E9E60CB3384D384D52ED6C",
+              "size": "116000"
             }
           ]
         }
