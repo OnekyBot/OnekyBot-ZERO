@@ -36,11 +36,11 @@
         {
           "name": "OnekyBot ZERO",
           "architecture": "OnekyBot",
-          "version": "2.0.0",
+          "version": "2.0.1",
           "category": "Contributed",
           "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package-V2/raw/main/releases/onekybot_zero-2.0.0.zip",
           "archiveFileName": "onekybot_zero-2.0.0.zip",
-          "checksum": "SHA-256:B0EDDEE1F05557A32D1006983C2DA100CD2FDDD4ACA7021A0674F9500F3D5AAB",
+          "checksum": "SHA-256:57E92F2DEA4346A649A62A5A7DC755D5EBC37B7AF13812B942FB0C826BC054EF",
           "size": "7744000",
           "boards": [
             {
@@ -57,11 +57,6 @@
               "packager": "OnekyBotZero",
               "name": "STM32Tools",
               "version": "2.3.1"
-            },
-            {
-              "packager": "OnekyBotZero",
-              "name": "DFU-Util",
-              "version": "0.6.0"
             }
           ]
         }
@@ -93,37 +88,17 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/raw/refs/heads/main/tools/win.zip",
+              "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package-V2/raw/refs/heads/main/tools/win.zip",
               "archiveFileName": "win.zip",
-              "checksum": "SHA-256:03E7570B2B41880067189946F76C44C1EFB64DD861D37F3425F23373514A0F4B",
-              "size": "10251000"
+              "checksum": "SHA-256:A81920747C33B27140A3503F7ABC27C156ED8062C81B1871A468384B3EE7D055",
+              "size": "10644000"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package/raw/refs/heads/main/tools/macosx.tar.gz",
+              "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package-V2/raw/refs/heads/main/tools/macosx.tar.gz",
               "archiveFileName": "macosx.tar.gz",
-              "checksum": "SHA-256:06E66265BA0C43A143FFE7F9C790AB2F9C48F58BDE6B81F67116258B23CBF32D",
-              "size": "811000"
-            }
-          ]
-        },
-        {
-          "name": "DFU-Util",
-          "version": "0.6.0",
-          "systems": [
-            {
-              "host": "i686-mingw32",
-              "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package-V2/raw/refs/heads/main/tools/dfu-util-0.6-win.zip",
-              "archiveFileName": "dfu-util-0.6-win.zip",
-              "checksum": "SHA-256:7F40DF21099CDDE2A22DC2ADCDA3BC4646C75491BB8D89ACB559DB7CD36627F2",
-              "size": "187000"
-            },
-            {
-              "host": "x86_64-apple-darwin",
-              "url": "https://github.com/OnekyBot/OnekyBot-ZERO-Package-V2/raw/refs/heads/main/tools/dfu-util-0.6-macos.tar.gz",
-              "archiveFileName": "dfu-util-0.6-macos.tar.gz",
-              "checksum": "SHA-256:9F454B2CA9F80F231C078393484C8181F94995ED61E9E60CB3384D384D52ED6C",
-              "size": "116000"
+              "checksum": "SHA-256:69C768572D444C8B7640028C7EDD2730802B9A74553977E9812776A24B3F4E94",
+              "size": "1205000"
             }
           ]
         }
