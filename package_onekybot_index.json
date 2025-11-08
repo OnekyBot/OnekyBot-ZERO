@@ -7,7 +7,7 @@
       "email": "computerzz423@gmail.com",
       "platforms": [
         {
-          "name": "OnekyBot ZERO",
+          "name": "OnekyBotZERO",
           "architecture": "OnekyBot",
           "version": "1.0.0",
           "category": "Contributed",
@@ -17,7 +17,7 @@
           "size": "7745000",
           "boards": [
             {
-              "name": "OnekyBot ZERO"
+              "name": "OnekyBotZERO"
             }
           ],
           "toolsDependencies": [
@@ -34,7 +34,7 @@
           ]
         },
         {
-          "name": "OnekyBot ZERO",
+          "name": "OnekyBotZERO",
           "architecture": "OnekyBot",
           "version": "3.0.0",
           "category": "Contributed",
@@ -44,7 +44,7 @@
           "size": "7744000",
           "boards": [
             {
-              "name": "OnekyBot ZERO"
+              "name": "OnekyBotZERO"
             }
           ],
           "toolsDependencies": [
